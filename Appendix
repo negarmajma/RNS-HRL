@@ -1,0 +1,46 @@
+
+Appendix  
+Appendix 1 - Fuzzy Rules  
+
+ 
+Appendix 2 - Data Used in the Ten Scenarios  
+
+Brain Sensor Data File  
+95.0 285.0 18.0 0.18 44.0 
+40.0 80.0 5.0 0.0106 18.0 
+20 100 5 0.13 10
+60 150 8 0.1 25
+90 280 18 0.12 45
+60.0 150.0 8.0 0.1 25.0 
+70.0 250.0 15.0 0.14 40.0
+30.0 60.0 3.0 0.04 15.0 
+20.0 35.0 1.0 0.01 10.0 
+100.0 300.0 20.0 1.0 50.0 
+
+
+Physiological Sensor Data File  
+'N' 130.0 150.0 38.5  
+'N' 110.0 135.0 38.2  
+'N' 90.0 120.0 37.8  
+'N' 140.0 150.0 38.5  
+'H' 101.0 121.0 37.6  
+'N' 90.0 120.0 37.5  
+'H' 140.0 160.0 38.7  
+'H' 100.0 125.0 38.0  
+'N' 90.0 110.0 37.6  
+'N' 180.0 150.0 38.5
+'N' 150.0 140.0 38.0
+
+
+
+Expert Desired Output File  
+Stimulation
+Monitoring
+Monitoring
+Monitoring
+Stimulation
+Monitoring
+Stimulation
+Stimulation
+Monitoring
+Stimulation
